@@ -1,0 +1,1 @@
+# scratch-minecraft-chat
