@@ -21,4 +21,4 @@ PROJECT_ID=your_project_id
 ```
 
 ## Usage
-On your Minecraft (Spigot, Paper, etc.) server, download and install the [RaspberryJuice](https://www.spigotmc.org/resources/raspberryjuice.22724/) plugin. Start your server, run the Python script, and you're good to go!
+On your Minecraft (Spigot, Paper, etc.) server, download and install the [mcpq-plugin](https://github.com/mcpq/mcpq-plugin/releases/latest) (.jar) plugin. Start your server, run the Python script, and you're good to go!
